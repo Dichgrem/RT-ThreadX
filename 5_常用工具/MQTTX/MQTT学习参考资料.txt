@@ -1,0 +1,15 @@
+MQTT学习文献：
+
+MQTT 下载 https://mqttx.app/downloads
+
+MQTT与TCP通信协议的对比 ：https://blog.csdn.net/qq_37949192/article/details/122987950
+
+MQTT比TCP协议好在哪儿、MQTT比TCP的差别：https://blog.csdn.net/weixin_39514326/article/details/103297900
+
+第二十一节 MQTT 协议：https://blog.csdn.net/picassocao/article/details/129278260
+
+MQTT 控制报文 - CONNECT连接服务器报文，CONNACK，DISCONNECT ：https://blog.csdn.net/Mark_md/article/details/108196503
+
+MQTT协议中文版：https://mcxiaoke.gitbooks.io/mqtt-cn/content/?q=
+
+
